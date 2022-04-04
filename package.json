@@ -1,0 +1,28 @@
+{
+  "name": "firstpoint-server",
+  "version": "0.0.5",
+  "description": "A node server designed for enabling multiple apps / domains on a single (virtual) machine, and load balancing when necessary",
+  "main": "firstpoint-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metabench/firstpoint-server.git"
+  },
+  "keywords": [
+    "node",
+    "load-balancer",
+    "proxy",
+    "multiple-servers"
+  ],
+  "author": "James Vickers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/metabench/firstpoint-server/issues"
+  },
+  "homepage": "https://github.com/metabench/firstpoint-server#readme",
+  "dependencies": {
+    "http-proxy": "^1.18.1"
+  }
+}

@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "SSH FS - root@polycodec.org",
+			"uri": "ssh://root@polycodec.org/"
+		}
+	],
+	"settings": {}
+}
